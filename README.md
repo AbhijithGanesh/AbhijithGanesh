@@ -8,7 +8,7 @@ I am tech enthusiast and I aspire to grow into tech-world.
 </p>
 
 <div>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhijithGanesh&theme=gotham)
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AbhijithGanesh&theme=gotham"/>
 </div>
 
 
