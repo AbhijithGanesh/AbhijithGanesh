@@ -7,7 +7,7 @@ I am tech enthusiast and I aspire to grow into tech-world.
 <img src="https://github-readme-stats.vercel.app/api?username=AbhijithGanesh&show_icons=true&theme=gotham" alt="Abhijith Ganesh" />
 </p>
 
-<div>
+<div align = 'center'>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AbhijithGanesh&theme=gotham"/>
 </div>
 
