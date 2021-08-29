@@ -7,14 +7,18 @@ I am tech enthusiast and I aspire to grow into tech-world.
 Projects you can view :
   a . My FastAPI-Django Integration:
     <a href = "https://github.com/AbhijithGanesh/FastAPI-Django-Integration"> Click Here </a>
+    
     This project is an alternative, one of its kind project which uses FASTAPI for a CRUD API instead of DRF(which is a more conventional approach) 
     The Project has two routers which can be viewed through. The Documentation related to the API can be viewed at /redoc or /docs.
   b. Flask HTTP Server:
     <a href = "github.com/AbhijithGanesh/Flask-HTTP-Server"> Click Here </a>
-    A FLask HTTP CRUD API
+     
+     A Flask HTTP CRUD API
+    
   c. Password-Generator:
     <a href = "https://github.com/AbhijithGanesh/Password-Generator-Django/"/> Click Here </a>
-    A quick 128-bit password generator which will mail your password through SMTP
+   
+    A quick 128-bit password generator which will mail your password through SMTP. It was implemented through Django.
       
 
 
