@@ -18,7 +18,7 @@ Projects you can view :
     
   c. Password-Generator:
     <a href = "https://github.com/AbhijithGanesh/Password-Generator-Django/"/> Click Here </a>
-    <a href = "team-unhackables.herokuapp.com/"> Click Here to view the Deployment</a>
+    <a href = "https://team-unhackables.herokuapp.com/"> Click Here to view the Deployment</a>
    
     A quick 128-bit password generator which will mail your password through SMTP. It was implemented through Django.
       
