@@ -6,7 +6,8 @@ I am tech enthusiast and I aspire to grow into tech-world.
 
 Projects you can view :
   a . My FastAPI-Django Integration:
-    <a href = "https://github.com/AbhijithGanesh/FastAPI-Django-Integration"> Click Here </a>
+    <a href = "https://github.com/AbhijithGanesh/FastAPI-Django-Integration"> Click Here to view the repository</a>
+    <a href = "fastapi-django.herokuapp.com/Application/"> Click Here to view the Deployment</a>
     
     This project is an alternative, one of its kind project which uses FASTAPI for a CRUD API instead of DRF(which is a more conventional approach) 
     The Project has two routers which can be viewed through. The Documentation related to the API can be viewed at /redoc or /docs.
