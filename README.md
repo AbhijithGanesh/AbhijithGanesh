@@ -1,29 +1,41 @@
-Heyy There <img src = "https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width = "25px;">
-<br>
-I am Abhijith Ganesh. I just finished High School and I'm about to join college.
-I love tech-stuff and programming. I primarily use Python and I've plans of learning Rust and GoLang.
-I am tech enthusiast and I aspire to grow into tech-world.
+<h1>
+Hi there, I am Abhijith Ganesh
+</h1>
+<h2 align="center"> 
+<img height="40" width="40" alt="github" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> About Me </h2>
 
-Projects you can view :
-  a . My FastAPI-Django Integration:
-    <a href = "https://github.com/AbhijithGanesh/FastAPI-Django-Integration"> Click Here to view the repository</a>
-    <a href = "https://fastapi-django.herokuapp.com/Application/"> Click Here to view the Deployment</a>
-    
-    This project is an alternative, one of its kind project which uses FASTAPI for a CRUD API instead of DRF(which is a more conventional approach) 
-    The Project has two routers which can be viewed through. The Documentation related to the API can be viewed at /redoc or /docs.
-  b. Flask HTTP Server:
-    <a href = "github.com/AbhijithGanesh/Flask-HTTP-Server"> Click Here </a>
-     
-     A Flask HTTP CRUD API
-    
-  c. Password-Generator:
-    <a href = "https://github.com/AbhijithGanesh/Password-Generator-Django/"/> Click Here </a>
-    <a href = "https://team-unhackables.herokuapp.com/"> Click Here to view the Deployment</a>
-   
-    A quick 128-bit password generator which will mail your password through SMTP. It was implemented through Django.
-      
+- 🔭️ I'm a Web-Developer and a UI/UX enthusiast
+- I'm a knowledge seeker & I love to learn new 💻 _Technologies_.
+- ✅ I'm learning Docker and GraphQL. 
 
+<h3 align="center">🛠️ Languages & Frameworks</h3>
 
+![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=white)
+![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![Javascript](https://img.shields.io/badge/-Javascript-ffb400?style=for-the-badge&logo=javascript&logoColor=ffff3f)
+![Python](https://img.shields.io/badge/python%20-%231572B6.svg?&style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
+![Flask](https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-003f2c?style=for-the-badge&logo=django&logoColor=fff&labelColor=003f2c)
+![FastAPI](https://img.shields.io/badge/-FastAPI-%23003d05?style=for-the-badge&logo=fastapi)
+
+<h3 align="center">⚙️ Tools</h3>
+
+![VSCode](https://img.shields.io/badge/-vscode-00a8e8?style=for-the-badge&logo=visual-studio-code)
+![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
+![Heroku](https://img.shields.io/badge/-Heroku-333333?style=for-the-badge&logo=Heroku)
+![Linux](https://img.shields.io/badge/-linux-772953?style=for-the-badge&logo=linux)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-blue?style=for-the-badge&logo=docker&logoColor=white)
+
+<h3 align="center"> How to reach me </h3>
+
+[<img src="https://img.shields.io/badge/LinkedIn-Abhijith%20Ganesh-blue?style=for-the-badge&logo=linkedin">](https://www.linkedin.com/in/AbhijithGanesh14/)
+
+[<img  src = "https://img.shields.io/badge/Twitter-Abhijith%20Ganesh-blue?style=for-the-badge&logo=twitter&logoColor=white">](https://www.twitter.com/GaneshAbhijith)
+___
+
+### 📈 **Github Stats**
 <p align="center"> 
 <img src="https://github-readme-stats.vercel.app/api?username=AbhijithGanesh&show_icons=true&theme=gotham" alt="Abhijith Ganesh" />
 </p>
@@ -31,7 +43,4 @@ Projects you can view :
 <div align = 'center'>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AbhijithGanesh&theme=gotham"/>
 </div>
-
-
-
 
