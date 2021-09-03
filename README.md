@@ -2,10 +2,10 @@
 Hi there, I am Abhijith Ganesh
 </h1>
 <h2 align="center"> 
-<img height="40" width="40" alt="github" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> About Me </h2>
+<img height="40" width="40" alt="github" color = "white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> About Me </h2>
 
 - 🔭️ I'm a Web-Developer and a UI/UX enthusiast
-- I'm a knowledge seeker & I love to learn new 💻 _Technologies_.
+- 🎇I'm a knowledge seeker & I love to learn new 💻 _Technologies_.
 - ✅ I'm learning Docker and GraphQL. 
 
 <h3 align="center">🛠️ Languages & Frameworks</h3>
