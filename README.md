@@ -6,7 +6,7 @@ Hi there, I am Abhijith Ganesh
 
 - 🔭️ I'm a Web-Developer and a UI/UX enthusiast
 - 🎇I'm a knowledge seeker & I love to learn new 💻 _Technologies_.
-- ✅ I'm learning Docker and GraphQL. 
+- ✅ I'm learning Docker and GraphQL.
 
 <h3 align="center">🛠️ Languages & Frameworks</h3>
 
@@ -35,11 +35,9 @@ Hi there, I am Abhijith Ganesh
 [<img  src = "https://img.shields.io/badge/Twitter-Abhijith%20Ganesh-blue?style=for-the-badge&logo=twitter&logoColor=white">](https://www.twitter.com/GaneshAbhijith)
 ___
 
-### 📈 **Github Stats**
+<h3 align="center"> <b> 📈 GitHub Stats </b> </h3>
 <p align="center"> 
 <img src="https://github-readme-stats.vercel.app/api?username=AbhijithGanesh&count_private=true&show_icons=true&include_all_commits=true&theme=gotham" alt="Abhijith Ganesh" />
 </p>
 
-
-
-[![Abhijith's github activity graph](https://activity-graph.herokuapp.com/graph?username=AbhijithGanesh&theme=xcode)](https://git.io/AbhijithGanesh)
+[![Abhijith's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=AbhijithGanesh&theme=xcode)](https://git.io/AbhijithGanesh)
