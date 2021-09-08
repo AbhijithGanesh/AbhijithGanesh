@@ -6,7 +6,7 @@ Hi there, I am Abhijith Ganesh
 
 - 🔭️ I'm a Web-Developer and a UI/UX enthusiast
 - 🎇I'm a knowledge seeker & I love to learn new 💻 _Technologies_.
-- ✅ I'm learning Docker and GraphQL. 
+- ✅ I'm learning Docker and Typescript
 
 <h3 align="center">🛠️ Languages & Frameworks</h3>
 
