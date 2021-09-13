@@ -1,6 +1,4 @@
-<h1>
-Hi there, I am Abhijith Ganesh
-</h1>
+
 
 <h2 align="center">
   About Me
