@@ -1,9 +1,10 @@
 <h1>
 Hi there, I am Abhijith Ganesh
 </h1>
+<p>
 <h2 align="center"> 
 <img height="40" width="40" alt="github" color = "white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> About Me </h2>
-
+</p>
 - 🔭️ I'm a Web-Developer and a UI/UX enthusiast
 - 🎇I'm a knowledge seeker & I love to learn new 💻 _Technologies_.
 - ✅ I'm learning Docker and Typescript
