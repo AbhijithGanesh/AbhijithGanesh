@@ -7,7 +7,7 @@
 
 - 🔭️ I'm a Web-Developer and a UI/UX enthusiast
 - 🎇I'm a knowledge seeker & I love to learn new 💻 _Technologies_.
-- ✅ I'm learning Docker and Typescript
+- ✅ I'm learning about Kubernetes and Typescript
 
 <h3 align="center">🛠️ Languages & Frameworks</h3>
 
