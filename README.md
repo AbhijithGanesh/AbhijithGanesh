@@ -38,8 +38,8 @@ ___
 
 <h3 align="center"> <b> 📈 GitHub Stats </b> </h3>
 <p> 
-<img width = "48%" src = "https://github-readme-streak-stats.herokuapp.com/?user=AbhijithGanesh&theme=tokyonight"/>
-<img width = "48%" src="https://github-readme-stats.vercel.app/api?username=AbhijithGanesh&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Abhijith Ganesh" />
+<img width = "48%" src = "https://github-readme-streak-stats.herokuapp.com/?user=AbhijithGanesh&theme=algolia"/>
+<img width = "48%" src="https://github-readme-stats.vercel.app/api?username=AbhijithGanesh&count_private=true&show_icons=true&include_all_commits=true&theme=algolia" alt="Abhijith Ganesh" />
 </p>
 
 [![Abhijith's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=AbhijithGanesh&theme=xcode)](https://git.io/AbhijithGanesh)
