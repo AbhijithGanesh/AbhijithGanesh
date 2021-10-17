@@ -31,9 +31,9 @@
 
 <h3 align="center"> How to reach me </h3>
 
-[<img width = "48%" src="https://img.shields.io/badge/LinkedIn-Abhijith%20Ganesh-blue?style=for-the-badge&logo=linkedin">](https://www.linkedin.com/in/AbhijithGanesh14/)
+[<img src="https://img.shields.io/badge/LinkedIn-Abhijith%20Ganesh-blue?style=for-the-badge&logo=linkedin">](https://www.linkedin.com/in/AbhijithGanesh14/)
 
-[<img width = "48%"  src = "https://img.shields.io/badge/Twitter-Abhijith%20Ganesh-blue?style=for-the-badge&logo=twitter&logoColor=white">](https://www.twitter.com/GaneshAbhijith)
+[<img src = "https://img.shields.io/badge/Twitter-Abhijith%20Ganesh-blue?style=for-the-badge&logo=twitter&logoColor=white">](https://www.twitter.com/GaneshAbhijith)
 ___
 
 <h3 align="center"> <b> 📈 GitHub Stats </b> </h3>
