@@ -28,7 +28,7 @@
 ![Linux](https://img.shields.io/badge/-linux-772953?style=for-the-badge&logo=linux)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=for-the-badge&logo=docker&logoColor=white)
-\
+
 <h3 align="center"> How to reach me </h3>
 
 [<img src="https://img.shields.io/badge/LinkedIn-Abhijith%20Ganesh-blue?style=for-the-badge&logo=linkedin">](https://www.linkedin.com/in/AbhijithGanesh14/)
