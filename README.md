@@ -48,4 +48,5 @@ ___
 </p>
 ___
 
-[![Abhijith's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=AbhijithGanesh&theme=xcode)](https://git.io/AbhijithGanesh)
+<!-- [![Abhijith's github activity graph](https://activity-graph.herokuapp.com/graph?username=AbhijithGanesh)] -->
+
