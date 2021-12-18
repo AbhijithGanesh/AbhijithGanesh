@@ -35,7 +35,7 @@
 
 [<img src = "https://img.shields.io/badge/Twitter-Abhijith%20Ganesh-blue?style=for-the-badge&logo=twitter&logoColor=white">](https://www.twitter.com/GaneshAbhijith)
 
-
+[![Abhijith Ganesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AbhijithGanesh&theme=xcode)](https://git.io/AbhijithGanesh)
 
 
 
