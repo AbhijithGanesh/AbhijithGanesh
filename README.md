@@ -36,6 +36,8 @@
 [<img src = "https://img.shields.io/badge/Twitter-Abhijith%20Ganesh-blue?style=for-the-badge&logo=twitter&logoColor=white">](https://www.twitter.com/GaneshAbhijith)
 
 
+[![Artifact Hub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/k8ssandra-lightweight)](https://artifacthub.io/packages/search?repo=k8ssandra-lightweight)
+
 ___
 
 <h3 align="center"> <b> 📈 GitHub Stats </b> </h3>
