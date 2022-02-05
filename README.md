@@ -52,4 +52,4 @@ ___
 
 
 
-![snake gif](https://github.com/YOUR_USERNAME/AbhijithGanesh/AbhijithGanesh/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/AbhijithGanesh/AbhijithGanesh/blob/output/github-contribution-grid-snake.gif)
