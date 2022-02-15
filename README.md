@@ -38,6 +38,7 @@
 
 [![Artifact Hub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/k8ssandra-lightweight)](https://artifacthub.io/packages/search?repo=k8ssandra-lightweight)
 
+[![Artifact Hub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/cassandra-lightweight)](https://artifacthub.io/packages/search?repo=cassandra-lightweight)
 ___
 
 <h3 align="center"> <b> 📈 GitHub Stats </b> </h3>
