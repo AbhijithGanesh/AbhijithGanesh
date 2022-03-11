@@ -5,7 +5,7 @@
 </h2>
 
 
-- 🔭️ I'm a Web-Developer and a UI/UX enthusiast
+- 🔭️ I'm a Back-end and a distributed-computinh enthusiast
 - 🎇I'm a knowledge seeker & I love to learn new 💻 _Technologies_.
 - ✅ I'm learning about Kubernetes and Typescript
 
