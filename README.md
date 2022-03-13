@@ -19,7 +19,7 @@
 ![Flask](https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-003f2c?style=for-the-badge&logo=django&logoColor=fff&labelColor=003f2c)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-%23003d05?style=for-the-badge&logo=fastapi)
-![TypeScript](https://flat.badgen.net/badge/-/TypeScript?icon=typescript&label&labelColor=blue&color=555555)
+![Rust](https://img.shields.io/badge/rust-%23000.svg?&style=for-the-badge&logo=rust&logoColor=white)
 
 <h3 align="center">⚙️ Tools</h3>
 
