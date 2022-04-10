@@ -1,11 +1,11 @@
 
 
-<h2 align="center">
-  About Me
+<h2 align="left">
+  A strong open-source advocate and Distributed computing Enthusiast
 </h2>
 
 
-- 🔭️ I'm a Back-end and a distributed-computinh enthusiast
+- 🔭️ I'm a Back-end and a distributed-computing enthusiast
 - 🎇I'm a knowledge seeker & I love to learn new 💻 _Technologies_.
 - ✅ I'm learning about Kubernetes and Typescript
 
