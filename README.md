@@ -1,8 +1,11 @@
 
+<p align = "left">
+<img src = "https://user-images.githubusercontent.com/67182544/181340750-672419cb-2fcc-434f-870e-d3e2871764ac.png" width = "100"/>
+</p>
 
-<h2 align="left">
-  A strong open-source advocate and Distributed computing Enthusiast
-</h2>
+# Abhijith Ganesh
+
+An open-source developer who's inspired by the various contributions of all the open-source develoeprs across the world! Their contributions run the world today and through them we've got the best of modern Technology.
 
 
 - 🔭️ I'm a Back-end and a distributed-computing enthusiast
