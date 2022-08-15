@@ -15,7 +15,6 @@ An open-source developer who's inspired by the various contributions of all the 
 <h3 align="center">🛠️ Languages & Frameworks</h3>
 
 ![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=white)
-![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/-Javascript-ffb400?style=for-the-badge&logo=javascript&logoColor=ffff3f)
 ![Python](https://img.shields.io/badge/python%20-%231572B6.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
@@ -47,8 +46,8 @@ ___
 
 <h3 align="center"> <b> 📈 GitHub Stats </b> </h3>
 <p> 
-<img width = "48%" src = "https://github-readme-streak-stats.herokuapp.com/?user=AbhijithGanesh&theme=algolia"/>
-<img width = "48%" src="https://github-readme-stats.vercel.app/api?username=AbhijithGanesh&count_private=true&show_icons=true&include_all_commits=false&theme=algolia" alt="Abhijith Ganesh" />
+<img src = "https://github-readme-streak-stats.herokuapp.com/?user=AbhijithGanesh&theme=algolia"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AbhijithGanesh&count_private=true&show_icons=true&include_all_commits=false&theme=algolia" alt="Abhijith Ganesh" />
 </p>
 ___
 
