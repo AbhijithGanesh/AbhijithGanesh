@@ -1,11 +1,15 @@
+<h1 align = "center"> Abhijith Ganesh 🚀 </h1>
+
+<img src="https://readme-typing-svg.herokuapp.com/?color=e74e1f&width=460&height=72&lines=Cloud+Enthusiast;Machine+Learning+Advocate;Kubernetetes+Evangelist">
+
 
 ## About me
-<p>
+
 
 <p> An open-source developer who's inspired by the various contributions of all the open-source develoeprs across the world! Their contributions run the world today and through them we've got the best of modern Technology. </p>
 
 <img align="right" src = "https://user-images.githubusercontent.com/67182544/181340750-672419cb-2fcc-434f-870e-d3e2871764ac.png" width="15%" height="30%"/>
-<p>
+
 
 - 🔭️ I'm a Back-end and a distributed-computing enthusiast
 - 🎇I'm a knowledge seeker & I love to learn new 💻 _Technologies_.
