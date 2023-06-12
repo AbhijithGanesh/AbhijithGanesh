@@ -1,18 +1,24 @@
 
-<p align = "left">
-<img src = "https://user-images.githubusercontent.com/67182544/181340750-672419cb-2fcc-434f-870e-d3e2871764ac.png" width = "100"/>
-</p>
+## About me
+<p>
 
-# Abhijith Ganesh
+<p> An open-source developer who's inspired by the various contributions of all the open-source develoeprs across the world! Their contributions run the world today and through them we've got the best of modern Technology. </p>
 
-An open-source developer who's inspired by the various contributions of all the open-source develoeprs across the world! Their contributions run the world today and through them we've got the best of modern Technology.
-
+<img align="right" src = "https://user-images.githubusercontent.com/67182544/181340750-672419cb-2fcc-434f-870e-d3e2871764ac.png" width="15%" height="30%"/>
+<p>
 
 - 🔭️ I'm a Back-end and a distributed-computing enthusiast
 - 🎇I'm a knowledge seeker & I love to learn new 💻 _Technologies_.
 - ✅ I'm learning about Kubernetes and Typescript
 
-<h3 align="center">🛠️ Languages & Frameworks</h3>
+
+
+## My achievements
+
+<img src="https://github-profile-trophy.vercel.app/?username=AbhijithGanesh&row=1&column=9">
+ 
+
+<h3 align="center">🛠️ Languages & Frameworks 🪝</h3>
 
 ![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=white)
 ![Javascript](https://img.shields.io/badge/-Javascript-ffb400?style=for-the-badge&logo=javascript&logoColor=ffff3f)
@@ -39,21 +45,12 @@ An open-source developer who's inspired by the various contributions of all the 
 [<img src = "https://img.shields.io/badge/Twitter-Abhijith%20Ganesh-blue?style=for-the-badge&logo=twitter&logoColor=white">](https://www.twitter.com/GaneshAbhijith)
 
 
-[![Artifact Hub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/k8ssandra-lightweight)](https://artifacthub.io/packages/search?repo=k8ssandra-lightweight)
-
-[![Artifact Hub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/cassandra-lightweight)](https://artifacthub.io/packages/search?repo=cassandra-lightweight)
-___
 
 <h3 align="center"> <b> 📈 GitHub Stats </b> </h3>
 <p> 
-<img width="48%" src = "https://github-readme-streak-stats.herokuapp.com/?user=AbhijithGanesh&theme=algolia"/>
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=AbhijithGanesh&count_private=true&show_icons=true&include_all_commits=false&theme=algolia" alt="Abhijith Ganesh" />
+<img height="60%" src = "https://github-readme-streak-stats.herokuapp.com/?user=AbhijithGanesh&theme=algolia"/>
+<img height="60%" src="https://github-readme-stats.vercel.app/api?username=AbhijithGanesh&count_private=true&show_icons=true&include_all_commits=false&theme=algolia" alt="Abhijith Ganesh" />
 </p>
-___
-
-<!-- [![Abhijith's github activity graph](https://activity-graph.herokuapp.com/graph?username=AbhijithGanesh)] -->
-[![Abhijith Ganesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AbhijithGanesh&theme=xcode)](https://git.io/AbhijithGanesh)
-
 
 
 ![snake gif](https://github.com/AbhijithGanesh/AbhijithGanesh/blob/output/github-contribution-grid-snake.gif)
