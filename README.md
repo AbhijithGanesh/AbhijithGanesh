@@ -52,8 +52,8 @@
 
 <h3 align="center"> <b> 📈 GitHub Stats </b> </h3>
 <p> 
-<img height="60%" src = "https://github-readme-streak-stats.herokuapp.com/?user=AbhijithGanesh&theme=algolia"/>
-<img height="60%" src="https://github-readme-stats.vercel.app/api?username=AbhijithGanesh&count_private=true&show_icons=true&include_all_commits=false&theme=algolia" alt="Abhijith Ganesh" />
+<img width="46%" src = "https://github-readme-streak-stats.herokuapp.com/?user=AbhijithGanesh&theme=algolia"/>
+<img width="46%" src="https://github-readme-stats.vercel.app/api?username=AbhijithGanesh&count_private=true&show_icons=true&include_all_commits=false&theme=algolia" alt="Abhijith Ganesh" />
 </p>
 
 
