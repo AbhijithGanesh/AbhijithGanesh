@@ -5,8 +5,8 @@
 
 ## About me
 
+<p> Welcome to my corner of the digital world! I'm an open-source developer inspired by the incredible contributions of developers worldwide. Through open-source, we've harnessed the best of modern technology, and I'm excited to be part of this journey. </p>
 
-<p> An open-source developer who's inspired by the various contributions of all the open-source develoeprs across the world! Their contributions run the world today and through them we've got the best of modern Technology. </p>
 
 <img align="right" src = "https://user-images.githubusercontent.com/67182544/181340750-672419cb-2fcc-434f-870e-d3e2871764ac.png" width="15%" height="30%"/>
 
@@ -42,12 +42,16 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=for-the-badge&logo=docker&logoColor=white)
 
-<h3 align="center"> How to reach me </h3>
 
-[<img src="https://img.shields.io/badge/LinkedIn-Abhijith%20Ganesh-blue?style=for-the-badge&logo=linkedin">](https://www.linkedin.com/in/AbhijithGanesh14/)
-
-[<img src = "https://img.shields.io/badge/Twitter-Abhijith%20Ganesh-blue?style=for-the-badge&logo=twitter&logoColor=white">](https://www.twitter.com/GaneshAbhijith)
-
+<div align="center">
+  <h3> How to reach me 📲 </h3>
+  <a href="https://www.linkedin.com/in/AbhijithGanesh14/">
+    <img src="https://img.shields.io/badge/LinkedIn-Abhijith%20Ganesh-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://www.twitter.com/GaneshAbhijith">
+    <img src="https://img.shields.io/badge/Twitter-Abhijith%20Ganesh-blue?style=for-the-badge&logo=twitter&logoColor=white">
+  </a>
+</div>
 
 
 <h3 align="center"> <b> 📈 GitHub Stats </b> </h3>
@@ -55,6 +59,3 @@
 <img width="46%" src = "https://github-readme-streak-stats.herokuapp.com/?user=AbhijithGanesh&theme=algolia"/>
 <img width="46%" src="https://github-readme-stats.vercel.app/api?username=AbhijithGanesh&count_private=true&show_icons=true&include_all_commits=false&theme=algolia" alt="Abhijith Ganesh" />
 </p>
-
-
-![snake gif](https://github.com/AbhijithGanesh/AbhijithGanesh/blob/output/github-contribution-grid-snake.gif)
