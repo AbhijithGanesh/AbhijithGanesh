@@ -6,14 +6,12 @@
 
 <p> Welcome to my corner of the digital world! I'm an open-source developer inspired by the incredible contributions of developers worldwide. Through open-source, we've harnessed the best of modern technology, and I'm excited to be part of this journey. </p>
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=e74e1f&width=460&height=72&lines=Cloud+Enthusiast;Machine+Learning+Advocate;Kubernetetes+Evangelist">
-
 <img align="right" src = "https://user-images.githubusercontent.com/67182544/181340750-672419cb-2fcc-434f-870e-d3e2871764ac.png" width="15%" height="30%"/>
 
 
-- 🔭️ I'm a Back-end and a distributed-computing enthusiast
-- 🎇I'm a knowledge seeker & I love to learn new 💻 _Technologies_.
-- ✅ I'm learning about Kubernetes and Typescript
+- I can convert the ideas you have today into the reality of tommorrow
+- I am proficient with Python, TypeScript, Kubernetes
+- I have working experience with Rust and Azure
 
 
 
