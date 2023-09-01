@@ -20,9 +20,15 @@
 ## My achievements
 
 <img src="https://github-profile-trophy.vercel.app/?username=AbhijithGanesh&row=1&column=9">
- 
 
-<h3 align="center">🛠️ Languages & Frameworks 🪝</h3>
+## My Repos
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbhijithGanesh&theme=dark" width="90%" alt="stats graph"/>
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbhijithGanesh&theme=dark" width="45%" alt="stats graph"/> 
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbhijithGanesh&theme=dark" width="45%" alt="stats graph"/>
+</div>
+
+## 🛠️ Languages & Frameworks 🪝
 
 ![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=white)
 ![Javascript](https://img.shields.io/badge/-Javascript-ffb400?style=for-the-badge&logo=javascript&logoColor=ffff3f)
@@ -52,10 +58,3 @@
     <img src="https://img.shields.io/badge/Twitter-Abhijith%20Ganesh-blue?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
 </div>
-
-
-<h3 align="center"> <b> 📈 GitHub Stats </b> </h3>
-<p> 
-<img width="46%" src = "https://github-readme-streak-stats.herokuapp.com/?user=AbhijithGanesh&theme=algolia"/>
-<img width="46%" src="https://github-readme-stats.vercel.app/api?username=AbhijithGanesh&count_private=true&show_icons=true&include_all_commits=false&theme=algolia" alt="Abhijith Ganesh" />
-</p>
