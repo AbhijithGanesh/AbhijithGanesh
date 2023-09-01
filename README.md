@@ -21,7 +21,7 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=AbhijithGanesh&row=1&column=9">
 
-## My Repos
+## My GitHub Stats
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbhijithGanesh&theme=dark" width="90%" alt="stats graph"/>
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbhijithGanesh&theme=dark" width="45%" alt="stats graph"/> 
