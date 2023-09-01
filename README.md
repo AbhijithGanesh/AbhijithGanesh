@@ -2,16 +2,23 @@
 ![github-header-image(4)](https://github.com/AbhijithGanesh/AbhijithGanesh/assets/67182544/3a4fd88c-9265-4290-a094-aa19b2a41f6d)
 
 
-<h2> About me </h2>
+## About me
 
-<p> Welcome to my corner of the digital world! I'm an open-source developer inspired by the incredible contributions of developers worldwide. Through open-source, we've harnessed the best of modern technology, and I'm excited to be part of this journey. </p>
+Welcome to my corner of the digital world! I'm an open-source developer inspired by the incredible contributions of developers worldwide. Through open-source, we've harnessed the best of modern technology, and I'm excited to be part of this journey. 
 
 
 
-**What can I do for you**
-> - I can convert the ideas you have today into the reality of tommorrow
-> - I am proficient with Python, TypeScript, Kubernetes
-> - I have working experience with Rust and Azure
+## What can I do for you ?
+
+Through my previous experiences I can
+
+> - convert the ideas you have today into the reality of tommorrow
+> - optimize your business's brand visibility
+> - build websites, apps, backend infrastructure, migrate your stack from one to another
+> - make a **Machine learning solution relevant to your business context**
+> - integrate LLMs using LangChain
+> - I am proficient with Python, TypeScript, Kubernetes, GraphQL, React
+> - I have working experience with Rust, Vue and Azure
 
 
 
