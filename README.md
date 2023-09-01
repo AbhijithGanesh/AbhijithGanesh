@@ -17,8 +17,7 @@ Through my previous experiences I can
 > - build websites, apps, backend infrastructure, migrate your stack from one to another
 > - make a **Machine learning solution relevant to your business context**
 > - integrate LLMs using LangChain
-> - I am proficient with Python, TypeScript, Kubernetes, GraphQL, React
-> - I have working experience with Rust, Vue and Azure
+> - I am proficient with Python, TypeScript, Kubernetes, GraphQL, React, Rust, Vue and Azure
 
 
 
