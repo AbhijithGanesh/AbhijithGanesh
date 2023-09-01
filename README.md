@@ -1,12 +1,12 @@
-<h1 align = "center"> Abhijith Ganesh 🚀 </h1>
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=e74e1f&width=460&height=72&lines=Cloud+Enthusiast;Machine+Learning+Advocate;Kubernetetes+Evangelist">
+![github-header-image(4)](https://github.com/AbhijithGanesh/AbhijithGanesh/assets/67182544/3a4fd88c-9265-4290-a094-aa19b2a41f6d)
 
 
 ## About me
 
 <p> Welcome to my corner of the digital world! I'm an open-source developer inspired by the incredible contributions of developers worldwide. Through open-source, we've harnessed the best of modern technology, and I'm excited to be part of this journey. </p>
 
+<img src="https://readme-typing-svg.herokuapp.com/?color=e74e1f&width=460&height=72&lines=Cloud+Enthusiast;Machine+Learning+Advocate;Kubernetetes+Evangelist">
 
 <img align="right" src = "https://user-images.githubusercontent.com/67182544/181340750-672419cb-2fcc-434f-870e-d3e2871764ac.png" width="15%" height="30%"/>
 
