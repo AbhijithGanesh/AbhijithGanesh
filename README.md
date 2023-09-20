@@ -39,14 +39,14 @@ Through my previous experiences I can
 <div>
 <img src="https://github.com/devicons/devicon/raw/master/icons/react/react-original.svg" width="48" alt="React"/>
 <img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" width="48" alt="Python"/>
-<img src="https://github.com/devicons/devicon/raw/master/icons/cplusplus/cplusplus-original.svg" width="48" alt="C++"/>
+<!-- <img src="https://github.com/devicons/devicon/raw/master/icons/cplusplus/cplusplus-original.svg" width="48" alt="C++"/> -->
 <img src="https://github.com/devicons/devicon/raw/master/icons/rust/rust-plain.svg" width="48" alt="Rust"/>
 <img src="https://github.com/devicons/devicon/raw/master/icons/typescript/typescript-plain.svg" width="48" alt="TypeScript"/>
 <img src="https://github.com/devicons/devicon/raw/master/icons/azure/azure-original.svg" width="48" alt="Azure"/>
 <img src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-plain.svg" width="48" alt="Docker"/>
-<img src="https://github.com/devicons/devicon/raw/master/icons/fastapi/fastapi-original.svg" width="48" alt="FastAPI"/>
+<!-- <img src="https://github.com/devicons/devicon/raw/master/icons/fastapi/fastapi-original.svg" width="48" alt="FastAPI"/> -->
 <img src="https://github.com/devicons/devicon/raw/master/icons/gatsby/gatsby-original.svg" width="48" alt="Gatsby"/>
-<img src="https://github.com/devicons/devicon/raw/master/icons/git/git-plain.svg" width="48" alt="Git"/>
+<!-- <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-plain.svg" width="48" alt="Git"/> -->
 <img src="https://github.com/devicons/devicon/raw/master/icons/gitlab/gitlab-original.svg" width="48" alt="GitLab"/>
 <img src="https://github.com/devicons/devicon/raw/master/icons/java/java-plain.svg" width="48" alt="Java"/>
 <img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-plain.svg" width="48" alt="JavaScript"/>
