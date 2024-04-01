@@ -57,6 +57,5 @@ Through my previous experiences I can
 <img src="https://github.com/devicons/devicon/raw/master/icons/nextjs/nextjs-original.svg" width="48" alt="Next.js"/>
 <img src="https://github.com/devicons/devicon/raw/master/icons/numpy/numpy-original.svg" width="48" alt="NumPy"/>
 <img src="https://github.com/devicons/devicon/raw/master/icons/pytorch/pytorch-original.svg" width="48" alt="PyTorch"/>
-<img src="https://github.com/devicons/devicon/raw/master/icons/tailwindcss/tailwindcss-plain.svg" width="48" alt="Tailwind CSS"/>
 </div>
 
