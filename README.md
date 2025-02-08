@@ -20,11 +20,6 @@ Through my previous experiences I can
 > - I am proficient with Python, TypeScript, Kubernetes, GraphQL, React, Rust, Vue and Azure
 
 
-
-## My achievements
-
-<img src="https://github-profile-trophy.vercel.app/?username=AbhijithGanesh&row=1&column=9">
-
 ## My GitHub Stats
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbhijithGanesh&theme=rose_pine" width="90%" alt="stats graph"/>
