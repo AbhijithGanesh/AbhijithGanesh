@@ -52,20 +52,7 @@ Based in Chennai, India.
 ## Tech I work with
 
 <p align="center">
-
-[![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white)](#)
-[![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)](#)
-[![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)](#)
-[![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)](#)
-[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](#)
-[![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)](#)
-[![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)](#)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](#)
-
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,go,rust,java,cpp,bash,pytorch,tensorflow,opencv,sklearn,jupyter,fastapi,django,flask,react,nextjs,vue,astro,tailwind,graphql,kubernetes,docker,terraform,azure,aws,gcp,cloudflare,githubactions,nginx,grafana,prometheus,kafka,postgres,mysql,redis,mongodb,sqlite,git,github,vscode,linux&perline=11" alt="tech stack"/>
+  <img src="https://skillicons.dev/icons?i=py,ts,go,rust,redhat,cpp,bash,fastapi,mongo,flask,react,nextjs,vue,astro,tailwind,graphql,kubernetes,prometheus,docker,terraform,azure,aws,gcp,cloudflare,githubactions,nginx,grafana,prometheus,kafka,postgres,mysql,redis,mongodb,sqlite,git,github,vscode,linux,pytorch,bun&perline=10" alt="tech stack"/>
 </p>
 
 ---
