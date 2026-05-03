@@ -51,68 +51,49 @@ Based in Chennai, India.
 
 ## Tech I work with
 
-<div align="center">
-
-<sub><b>LLMs & Retrieval</b></sub><br/>
-<img src="https://cdn.simpleicons.org/openai/412991" width="44" alt="OpenAI" title="OpenAI"/>&nbsp;
-<img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="44" alt="Gemini" title="Google Gemini"/>&nbsp;
-<img src="https://cdn.simpleicons.org/anthropic" width="44" alt="Anthropic" title="Anthropic"/>&nbsp;
-<img src="https://cdn.simpleicons.org/ollama" width="44" alt="Ollama" title="Ollama"/>&nbsp;
-<img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="44" alt="LangChain" title="LangChain"/>&nbsp;
-<img src="https://cdn.simpleicons.org/qdrant/DC244C" width="44" alt="Qdrant" title="Qdrant"/>&nbsp;
-<img src="https://cdn.simpleicons.org/pinecone/000000" width="44" alt="Pinecone" title="Pinecone"/>&nbsp;
-<img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="44" alt="HuggingFace" title="HuggingFace"/>
-
-<br/><br/>
-
-<sub><b>AI / ML & Data</b></sub><br/>
-<img src="https://github.com/devicons/devicon/raw/master/icons/pytorch/pytorch-original.svg" width="44" alt="PyTorch" title="PyTorch"/>&nbsp;
-<img src="https://github.com/devicons/devicon/raw/master/icons/tensorflow/tensorflow-original.svg" width="44" alt="TensorFlow" title="TensorFlow"/>&nbsp;
-<img src="https://github.com/devicons/devicon/raw/master/icons/opencv/opencv-original.svg" width="44" alt="OpenCV" title="OpenCV"/>&nbsp;
-<img src="https://github.com/devicons/devicon/raw/master/icons/numpy/numpy-original.svg" width="44" alt="NumPy" title="NumPy"/>&nbsp;
-<img src="https://github.com/devicons/devicon/raw/master/icons/pandas/pandas-original.svg" width="44" alt="Pandas" title="Pandas"/>&nbsp;
-<img src="https://github.com/devicons/devicon/raw/master/icons/scikitlearn/scikitlearn-original.svg" width="44" alt="scikit-learn" title="scikit-learn"/>&nbsp;
-<img src="https://github.com/devicons/devicon/raw/master/icons/jupyter/jupyter-original.svg" width="44" alt="Jupyter" title="Jupyter"/>
-
-<br/><br/>
-
-<sub><b>Cloud & Infra</b></sub><br/>
-<img src="https://github.com/devicons/devicon/raw/master/icons/kubernetes/kubernetes-plain.svg" width="44" alt="Kubernetes" title="Kubernetes"/>&nbsp;
-<img src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-plain.svg" width="44" alt="Docker" title="Docker"/>&nbsp;
-<img src="https://github.com/devicons/devicon/raw/master/icons/terraform/terraform-original.svg" width="44" alt="Terraform" title="Terraform"/>&nbsp;
-<img src="https://github.com/devicons/devicon/raw/master/icons/azure/azure-original.svg" width="44" alt="Azure" title="Azure"/>&nbsp;
-<img src="https://github.com/devicons/devicon/raw/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="44" alt="AWS" title="AWS"/>&nbsp;
-<img src="https://github.com/devicons/devicon/raw/master/icons/googlecloud/googlecloud-original.svg" width="44" alt="GCP" title="GCP"/>&nbsp;
-<img src="https://github.com/devicons/devicon/raw/master/icons/cloudflare/cloudflare-original.svg" width="44" alt="Cloudflare" title="Cloudflare"/>&nbsp;
-<img src="https://github.com/devicons/devicon/raw/master/icons/githubactions/githubactions-original.svg" width="44" alt="GitHub Actions" title="GitHub Actions"/>&nbsp;
-<img src="https://github.com/devicons/devicon/raw/master/icons/nginx/nginx-original.svg" width="44" alt="NGINX" title="NGINX"/>&nbsp;
-<img src="https://github.com/devicons/devicon/raw/master/icons/grafana/grafana-original.svg" width="44" alt="Grafana" title="Grafana"/>&nbsp;
-<img src="https://github.com/devicons/devicon/raw/master/icons/prometheus/prometheus-original.svg" width="44" alt="Prometheus" title="Prometheus"/>&nbsp;
-<img src="https://github.com/devicons/devicon/raw/master/icons/apachekafka/apachekafka-original.svg" width="44" alt="Kafka" title="Kafka"/>
-
-<br/><br/>
-
-<sub><b>Frameworks</b></sub><br/>
-<img src="https://github.com/devicons/devicon/raw/master/icons/fastapi/fastapi-original.svg" width="44" alt="FastAPI" title="FastAPI"/>&nbsp;
-<img src="https://github.com/devicons/devicon/raw/master/icons/django/django-plain.svg" width="44" alt="Django" title="Django"/>&nbsp;
-<img src="https://cdn.simpleicons.org/gin/008ECF" width="44" alt="Gin" title="Gin"/>&nbsp;
-<img src="https://cdn.simpleicons.org/fiber/00ACD7" width="44" alt="Fiber" title="Fiber"/>&nbsp;
-<img src="https://github.com/devicons/devicon/raw/master/icons/react/react-original.svg" width="44" alt="React" title="React"/>&nbsp;
-<img src="https://github.com/devicons/devicon/raw/master/icons/nextjs/nextjs-original.svg" width="44" alt="Next.js" title="Next.js"/>&nbsp;
-<img src="https://github.com/devicons/devicon/raw/master/icons/astro/astro-original.svg" width="44" alt="Astro" title="Astro"/>&nbsp;
-<img src="https://github.com/devicons/devicon/raw/master/icons/graphql/graphql-plain.svg" width="44" alt="GraphQL" title="GraphQL"/>
-
-<br/><br/>
-
-<sub><b>Databases</b></sub><br/>
-<img src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original.svg" width="44" alt="PostgreSQL" title="PostgreSQL"/>&nbsp;
-<img src="https://github.com/devicons/devicon/raw/master/icons/redis/redis-original.svg" width="44" alt="Redis" title="Redis"/>&nbsp;
-<img src="https://github.com/devicons/devicon/raw/master/icons/mongodb/mongodb-plain.svg" width="44" alt="MongoDB" title="MongoDB"/>&nbsp;
-<img src="https://github.com/devicons/devicon/raw/master/icons/cassandra/cassandra-original.svg" width="44" alt="Cassandra" title="Cassandra"/>&nbsp;
-<img src="https://cdn.simpleicons.org/cockroachlabs/6933FF" width="44" alt="CockroachDB" title="CockroachDB"/>&nbsp;
-<img src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original.svg" width="44" alt="MySQL" title="MySQL"/>
-
-</div>
+<p align="center">
+<img src="https://api.iconify.design/simple-icons:openai.svg?color=%23FFFFFF" width="44" height="44" alt="OpenAI" title="OpenAI"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="44" height="44" alt="Gemini" title="Google Gemini"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/anthropic" width="44" height="44" alt="Anthropic" title="Anthropic"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/ollama" width="44" height="44" alt="Ollama" title="Ollama"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="44" height="44" alt="LangChain" title="LangChain"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/qdrant/DC244C" width="44" height="44" alt="Qdrant" title="Qdrant"/>&nbsp;&nbsp;
+<img src="https://api.iconify.design/simple-icons:pinecone.svg?color=%23FFFFFF" width="44" height="44" alt="Pinecone" title="Pinecone"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="44" height="44" alt="HuggingFace" title="HuggingFace"/>&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/raw/master/icons/pytorch/pytorch-original.svg" width="44" height="44" alt="PyTorch" title="PyTorch"/>&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/raw/master/icons/tensorflow/tensorflow-original.svg" width="44" height="44" alt="TensorFlow" title="TensorFlow"/>&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/raw/master/icons/opencv/opencv-original.svg" width="44" height="44" alt="OpenCV" title="OpenCV"/>&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/raw/master/icons/numpy/numpy-original.svg" width="44" height="44" alt="NumPy" title="NumPy"/>&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/raw/master/icons/pandas/pandas-original.svg" width="44" height="44" alt="Pandas" title="Pandas"/>&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/raw/master/icons/scikitlearn/scikitlearn-original.svg" width="44" height="44" alt="scikit-learn" title="scikit-learn"/>&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/raw/master/icons/jupyter/jupyter-original.svg" width="44" height="44" alt="Jupyter" title="Jupyter"/>&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/raw/master/icons/kubernetes/kubernetes-plain.svg" width="44" height="44" alt="Kubernetes" title="Kubernetes"/>&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-plain.svg" width="44" height="44" alt="Docker" title="Docker"/>&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/raw/master/icons/terraform/terraform-original.svg" width="44" height="44" alt="Terraform" title="Terraform"/>&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/raw/master/icons/azure/azure-original.svg" width="44" height="44" alt="Azure" title="Azure"/>&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/raw/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="44" height="44" alt="AWS" title="AWS"/>&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/raw/master/icons/googlecloud/googlecloud-original.svg" width="44" height="44" alt="GCP" title="GCP"/>&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/raw/master/icons/cloudflare/cloudflare-original.svg" width="44" height="44" alt="Cloudflare" title="Cloudflare"/>&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/raw/master/icons/githubactions/githubactions-original.svg" width="44" height="44" alt="GitHub Actions" title="GitHub Actions"/>&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/raw/master/icons/nginx/nginx-original.svg" width="44" height="44" alt="NGINX" title="NGINX"/>&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/raw/master/icons/grafana/grafana-original.svg" width="44" height="44" alt="Grafana" title="Grafana"/>&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/raw/master/icons/prometheus/prometheus-original.svg" width="44" height="44" alt="Prometheus" title="Prometheus"/>&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/raw/master/icons/apachekafka/apachekafka-original.svg" width="44" height="44" alt="Kafka" title="Kafka"/>&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/raw/master/icons/fastapi/fastapi-original.svg" width="44" height="44" alt="FastAPI" title="FastAPI"/>&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/raw/master/icons/django/django-plain.svg" width="44" height="44" alt="Django" title="Django"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/gin/008ECF" width="44" height="44" alt="Gin" title="Gin"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/fiber/00ACD7" width="44" height="44" alt="Fiber" title="Fiber"/>&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/raw/master/icons/react/react-original.svg" width="44" height="44" alt="React" title="React"/>&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/raw/master/icons/nextjs/nextjs-original.svg" width="44" height="44" alt="Next.js" title="Next.js"/>&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/raw/master/icons/astro/astro-original.svg" width="44" height="44" alt="Astro" title="Astro"/>&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/raw/master/icons/graphql/graphql-plain.svg" width="44" height="44" alt="GraphQL" title="GraphQL"/>&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original.svg" width="44" height="44" alt="PostgreSQL" title="PostgreSQL"/>&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/raw/master/icons/redis/redis-original.svg" width="44" height="44" alt="Redis" title="Redis"/>&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/raw/master/icons/mongodb/mongodb-plain.svg" width="44" height="44" alt="MongoDB" title="MongoDB"/>&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/raw/master/icons/cassandra/cassandra-original.svg" width="44" height="44" alt="Cassandra" title="Cassandra"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/cockroachlabs/6933FF" width="44" height="44" alt="CockroachDB" title="CockroachDB"/>&nbsp;&nbsp;
+<img src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original.svg" width="44" height="44" alt="MySQL" title="MySQL"/>
+</p>
 
 ---
 
