@@ -1,3 +1,6 @@
+<!-- markdownlint-disable MD033 MD041 MD060 -->
+# Abhijith Ganesh
+
 ![github-header-image](https://github.com/AbhijithGanesh/AbhijithGanesh/assets/67182544/3a4fd88c-9265-4290-a094-aa19b2a41f6d)
 
 <div align="center">
@@ -24,37 +27,40 @@ Based in Chennai, India.
 - An LLM-driven agent automating machine-level tasks with remote multi-language code execution.
 - Standardising CI/CD across **90+ repositories** — cutting CI failures **60–80%** and builds **50–70%** faster.
 
-### What I can help with
+### What I can do for your business
 
-- Production LLM systems — RAG pipelines, agentic workflows, prompt evaluation
-- Cloud-native platforms — Kubernetes, multi-cloud failover, CI/CD at scale
-- Backend systems — FastAPI, Django, Go services, real-time features
-- ML solutions tuned to your business context, from research to deployment
-- Stack migrations and modernisation (recently: 35+ apps to React Router v7 + Cloudflare edge, zero downtime)
+> - **Turn ideas into production** — take a concept from whiteboard to deployed system, end-to-end
+> - **Cut your cloud bill** — consolidate workloads, right-size compute, lease idle capacity
+> - **Ship faster** — modernise CI/CD pipelines and unblock developer velocity
+> - **Make AI actually useful** — RAG, agents, and ML solutions grounded in your domain
+> - **Migrate without downtime** — stack modernisation across web, edge, and infrastructure
+> - **Boost reliability** — observability, multi-cloud failover, and incident response that actually works
 
 ---
 
 ### GitHub Stats
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbhijithGanesh&theme=rose_pine" width="92%" alt="profile summary"/>
-  <br/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbhijithGanesh&theme=rose_pine" width="45%" alt="top languages by repo"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbhijithGanesh&theme=rose_pine" width="45%" alt="top languages by commit"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhijithGanesh&theme=rose-pine&hide_border=true" width="45%" alt="streak"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbhijithGanesh&theme=rose_pine" width="80%" alt="profile summary"/>
+</div>
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbhijithGanesh&theme=rose_pine" height="200" alt="top languages by repo"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbhijithGanesh&theme=rose_pine" height="200" alt="top languages by commit"/>
 </div>
 
 ---
 
 ### Tech I work with
 
-**AI / ML** — PyTorch · TensorFlow · HuggingFace · OpenCV · FaceNet · MTCNN · Ollama
-**LLMs & Retrieval** — OpenAI · Gemini · Qdrant · RAG pipelines · prompt evaluation
-**Languages** — TypeScript · Go · Python · Rust · SQL · C/C++ · Java
-**Frameworks** — FastAPI · Django · Next.js · React 19 · Gin · Fiber · Astro
-**Databases** — PostgreSQL · Redis · MongoDB · Cassandra · CockroachDB · MySQL
-**Cloud & Infra** — Azure (AKS, AzureML) · AWS (EC2, S3, SageMaker) · Kubernetes · Docker · Cloudflare · Prometheus · Grafana · Kafka
+| Area | Stack |
+| --- | --- |
+| **AI / ML** | PyTorch · TensorFlow · HuggingFace · OpenCV · FaceNet · MTCNN · Ollama |
+| **LLMs & Retrieval** | OpenAI · Gemini · Qdrant · RAG pipelines · prompt evaluation |
+| **Languages** | TypeScript · Go · Python · Rust · SQL · C/C++ · Java |
+| **Frameworks** | FastAPI · Django · Next.js · React 19 · Gin · Fiber · Astro |
+| **Databases** | PostgreSQL · Redis · MongoDB · Cassandra · CockroachDB · MySQL |
+| **Cloud & Infra** | Azure (AKS, AzureML) · AWS (EC2, S3, SageMaker) · Kubernetes · Docker · Cloudflare · Prometheus · Grafana · Kafka |
 
 <div align="center">
   <br/>
