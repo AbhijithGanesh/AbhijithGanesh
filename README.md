@@ -52,14 +52,14 @@ Based in Chennai, India.
 ## Tech I work with
 
 <p align="center">
-<img src="https://api.iconify.design/simple-icons:openai.svg?color=%23FFFFFF" width="44" height="44" alt="OpenAI" title="OpenAI"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="44" height="44" alt="Gemini" title="Google Gemini"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/anthropic" width="44" height="44" alt="Anthropic" title="Anthropic"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/ollama" width="44" height="44" alt="Ollama" title="Ollama"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="44" height="44" alt="LangChain" title="LangChain"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/qdrant/DC244C" width="44" height="44" alt="Qdrant" title="Qdrant"/>&nbsp;&nbsp;
-<img src="https://api.iconify.design/simple-icons:pinecone.svg?color=%23FFFFFF" width="44" height="44" alt="Pinecone" title="Pinecone"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="44" height="44" alt="HuggingFace" title="HuggingFace"/>&nbsp;&nbsp;
+<img src="https://api.iconify.design/simple-icons:openai.svg?color=%23FFFFFF&height=44" width="44" height="44" alt="OpenAI" title="OpenAI"/>&nbsp;&nbsp;
+<img src="https://api.iconify.design/simple-icons:googlegemini.svg?color=%238E75B2&height=44" width="44" height="44" alt="Gemini" title="Google Gemini"/>&nbsp;&nbsp;
+<img src="https://api.iconify.design/simple-icons:anthropic.svg?color=%23FFFFFF&height=44" width="44" height="44" alt="Anthropic" title="Anthropic"/>&nbsp;&nbsp;
+<img src="https://api.iconify.design/simple-icons:ollama.svg?color=%23FFFFFF&height=44" width="44" height="44" alt="Ollama" title="Ollama"/>&nbsp;&nbsp;
+<img src="https://api.iconify.design/simple-icons:langchain.svg?color=%23FFFFFF&height=44" width="44" height="44" alt="LangChain" title="LangChain"/>&nbsp;&nbsp;
+<img src="https://api.iconify.design/simple-icons:qdrant.svg?color=%23DC244C&height=44" width="44" height="44" alt="Qdrant" title="Qdrant"/>&nbsp;&nbsp;
+<img src="https://api.iconify.design/simple-icons:pinecone.svg?color=%23FFFFFF&height=44" width="44" height="44" alt="Pinecone" title="Pinecone"/>&nbsp;&nbsp;
+<img src="https://api.iconify.design/simple-icons:huggingface.svg?color=%23FFD21E&height=44" width="44" height="44" alt="HuggingFace" title="HuggingFace"/>&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/raw/master/icons/pytorch/pytorch-original.svg" width="44" height="44" alt="PyTorch" title="PyTorch"/>&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/raw/master/icons/tensorflow/tensorflow-original.svg" width="44" height="44" alt="TensorFlow" title="TensorFlow"/>&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/raw/master/icons/opencv/opencv-original.svg" width="44" height="44" alt="OpenCV" title="OpenCV"/>&nbsp;&nbsp;
@@ -81,8 +81,8 @@ Based in Chennai, India.
 <img src="https://github.com/devicons/devicon/raw/master/icons/apachekafka/apachekafka-original.svg" width="44" height="44" alt="Kafka" title="Kafka"/>&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/raw/master/icons/fastapi/fastapi-original.svg" width="44" height="44" alt="FastAPI" title="FastAPI"/>&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/raw/master/icons/django/django-plain.svg" width="44" height="44" alt="Django" title="Django"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/gin/008ECF" width="44" height="44" alt="Gin" title="Gin"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/fiber/00ACD7" width="44" height="44" alt="Fiber" title="Fiber"/>&nbsp;&nbsp;
+<img src="https://api.iconify.design/simple-icons:gin.svg?color=%23008ECF&height=44" width="44" height="44" alt="Gin" title="Gin"/>&nbsp;&nbsp;
+<img src="https://api.iconify.design/simple-icons:fiber.svg?color=%2300ACD7&height=44" width="44" height="44" alt="Fiber" title="Fiber"/>&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/raw/master/icons/react/react-original.svg" width="44" height="44" alt="React" title="React"/>&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/raw/master/icons/nextjs/nextjs-original.svg" width="44" height="44" alt="Next.js" title="Next.js"/>&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/raw/master/icons/astro/astro-original.svg" width="44" height="44" alt="Astro" title="Astro"/>&nbsp;&nbsp;
@@ -91,7 +91,7 @@ Based in Chennai, India.
 <img src="https://github.com/devicons/devicon/raw/master/icons/redis/redis-original.svg" width="44" height="44" alt="Redis" title="Redis"/>&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/raw/master/icons/mongodb/mongodb-plain.svg" width="44" height="44" alt="MongoDB" title="MongoDB"/>&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/raw/master/icons/cassandra/cassandra-original.svg" width="44" height="44" alt="Cassandra" title="Cassandra"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/cockroachlabs/6933FF" width="44" height="44" alt="CockroachDB" title="CockroachDB"/>&nbsp;&nbsp;
+<img src="https://api.iconify.design/simple-icons:cockroachlabs.svg?color=%236933FF&height=44" width="44" height="44" alt="CockroachDB" title="CockroachDB"/>&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original.svg" width="44" height="44" alt="MySQL" title="MySQL"/>
 </p>
 
