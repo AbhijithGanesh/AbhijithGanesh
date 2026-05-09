@@ -1,85 +1,83 @@
 <!-- markdownlint-disable MD033 MD041 MD045 -->
 
-```aura width=1200 height=520
+```aura width=1200 height=620
 <div style={{
-  width: '100%', height: '100%', display: 'flex', flexDirection: 'column',
-  background: 'linear-gradient(135deg, #050505 0%, #0d0a07 60%, #1a0f05 100%)',
-  fontFamily: 'Inter', color: '#f5efe6', padding: '52px 56px',
+  width: '100%', height: '100%', display: 'flex',
+  background: 'linear-gradient(135deg, #050505 0%, #0d0a07 55%, #1a0f05 100%)',
+  fontFamily: 'Inter', color: '#f5efe6', padding: '72px 80px',
   position: 'relative',
 }}>
-  {/* Raw SVG decoration layer — IDs preserved, animations work */}
   <svg
-    width="1200" height="520"
-    viewBox="0 0 1200 520"
+    width="1200" height="620"
+    viewBox="0 0 1200 620"
     style={{ position: 'absolute', top: 0, left: 0, display: 'flex' }}
     xmlns="http://www.w3.org/2000/svg"
   >
     <style>{`
       @keyframes flickerCorner { 0%,100% { opacity: 1; } 50% { opacity: 0.35; } }
-      @keyframes sweep { 0% { transform: translateX(-300px); } 100% { transform: translateX(1500px); } }
+      @keyframes sweep { 0% { transform: translateX(-360px); } 100% { transform: translateX(1500px); } }
       #c1 { animation: flickerCorner 3s ease-in-out infinite; }
       #c2 { animation: flickerCorner 3s ease-in-out 0.4s infinite; }
       #c3 { animation: flickerCorner 3s ease-in-out 0.8s infinite; }
       #c4 { animation: flickerCorner 3s ease-in-out 1.2s infinite; }
-      #sweep-band { animation: sweep 5s ease-in-out infinite; }
+      #sweep-band { animation: sweep 6s ease-in-out infinite; }
     `}</style>
     <defs>
       <linearGradient id="sweepGrad" x1="0" y1="0" x2="1" y2="0">
         <stop offset="0%" stopColor="#ffb547" stopOpacity="0"/>
-        <stop offset="50%" stopColor="#ffb547" stopOpacity="0.18"/>
+        <stop offset="50%" stopColor="#ffb547" stopOpacity="0.14"/>
         <stop offset="100%" stopColor="#ffb547" stopOpacity="0"/>
       </linearGradient>
     </defs>
-    {/* sweep light band */}
-    <rect id="sweep-band" x="-300" y="0" width="300" height="520" fill="url(#sweepGrad)"/>
-    {/* corner ticks */}
+    <rect id="sweep-band" x="-360" y="0" width="360" height="620" fill="url(#sweepGrad)"/>
     <g id="c1" stroke="#ffb547" strokeWidth="2" fill="none">
-      <path d="M 24 52 L 24 24 L 52 24"/>
+      <path d="M 36 72 L 36 36 L 72 36"/>
     </g>
     <g id="c2" stroke="#ffb547" strokeWidth="2" fill="none">
-      <path d="M 1148 24 L 1176 24 L 1176 52"/>
+      <path d="M 1128 36 L 1164 36 L 1164 72"/>
     </g>
     <g id="c3" stroke="#ffb547" strokeWidth="2" fill="none">
-      <path d="M 24 468 L 24 496 L 52 496"/>
+      <path d="M 36 548 L 36 584 L 72 584"/>
     </g>
     <g id="c4" stroke="#ffb547" strokeWidth="2" fill="none">
-      <path d="M 1148 496 L 1176 496 L 1176 468"/>
+      <path d="M 1128 584 L 1164 584 L 1164 548"/>
     </g>
   </svg>
 
-  <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', fontSize: 13, letterSpacing: 4, color: '#888', textTransform: 'uppercase' }}>
-    <div style={{ display: 'flex' }}>VOL. 01 · DOSSIER</div>
-    <div style={{ display: 'flex' }}>CHENNAI · 13.0827° N</div>
-    <div style={{ display: 'flex', color: '#ffb547', alignItems: 'center', gap: 8 }}>
-      <div id="hero-dot" style={{ display: 'flex', width: 10, height: 10, borderRadius: 10, background: '#ffb547' }} />
-      <div style={{ display: 'flex' }}>ONLINE</div>
-    </div>
-  </div>
-
-  <div style={{ display: 'flex', flex: 1, alignItems: 'center', marginTop: 18 }}>
-    <div style={{ display: 'flex', flexDirection: 'column' }}>
-      <div style={{ display: 'flex', fontSize: 22, color: '#a89580', letterSpacing: 8, fontWeight: 300, textTransform: 'uppercase' }}>
+  {/* Single-column identity, full width */}
+  <div style={{ display: 'flex', flexDirection: 'column', flex: 1, justifyContent: 'center' }}>
+    <div style={{ display: 'flex', alignItems: 'center', gap: 18 }}>
+      <div style={{ display: 'flex', width: 36, height: 1, background: '#ffb547' }} />
+      <div style={{ display: 'flex', fontSize: 13, color: '#ffb547', letterSpacing: 6, fontWeight: 500, textTransform: 'uppercase' }}>
         Founding AI Engineer
       </div>
-      <div id="hero-name" style={{ display: 'flex', fontSize: 132, fontWeight: 900, lineHeight: 1, marginTop: 14, letterSpacing: -6 }}>
-        ABHIJITH
+    </div>
+
+    <div style={{ display: 'flex', flexDirection: 'column', marginTop: 36 }}>
+      <div style={{ display: 'flex', fontSize: 152, fontWeight: 900, lineHeight: 0.94, letterSpacing: -7 }}>
+        Abhijith
       </div>
-      <div id="hero-name-2" style={{ display: 'flex', fontSize: 132, fontWeight: 200, lineHeight: 1, letterSpacing: -6, color: '#ffb547', fontStyle: 'italic' }}>
+      <div style={{ display: 'flex', fontSize: 152, fontWeight: 900, lineHeight: 1, letterSpacing: -7, color: '#ffb547', fontStyle: 'italic', marginTop: 6 }}>
         Ganesh.
       </div>
-      <div style={{ display: 'flex', marginTop: 22, fontSize: 18, color: '#aaa', maxWidth: 760, lineHeight: 1.4 }}>
-        Production LLM systems, end-to-end. Retrieval pipelines, document forensics, agentic automation — wired to cloud-native infrastructure that doesn't fall over.
-      </div>
     </div>
-  </div>
 
-  <div style={{ display: 'flex', justifyContent: 'space-between', fontSize: 12, letterSpacing: 3, color: '#555', textTransform: 'uppercase', paddingTop: 14 }}>
-    <div style={{ display: 'flex' }}>// CKA · CERTIFIED</div>
-    <div style={{ display: 'flex' }}>// AZ-900 · AI-900 · AWS · GCP</div>
-    <div style={{ display: 'flex' }}>// SHIP → MEASURE → REPEAT</div>
+    <div style={{ display: 'flex', marginTop: 44, fontSize: 20, color: '#d8d2c4', maxWidth: 760, lineHeight: 1.55, fontWeight: 300 }}>
+      Production LLM systems, end-to-end — retrieval, document forensics, and agentic automation, wired to cloud-native infra that doesn't fall over.
+    </div>
+
+    <div style={{ display: 'flex', alignItems: 'center', marginTop: 44, fontSize: 12, letterSpacing: 3, color: '#7a7468', textTransform: 'uppercase' }}>
+      <div style={{ display: 'flex' }}>Chennai, IN</div>
+      <div style={{ display: 'flex', width: 4, height: 4, borderRadius: 4, background: '#3a3a3a', margin: '0 18px' }} />
+      <div style={{ display: 'flex' }}>CKA · AWS · GCP · Azure</div>
+      <div style={{ display: 'flex', width: 4, height: 4, borderRadius: 4, background: '#3a3a3a', margin: '0 18px' }} />
+      <div style={{ display: 'flex', color: '#ffb547' }}>Open for work</div>
+    </div>
   </div>
 </div>
 ```
+
+<div style="background:#0a0a0a;padding:18px 0 6px 0;">
 
 ```aura width=220 height=44 link="mailto:work@abhijithganesh.com" inline align=center
 <SocialMediaButton
@@ -98,6 +96,7 @@
   ]}
 />
 ```
+
 ```aura width=170 height=44 link="https://abhijithganesh.com" inline align=center
 <SocialMediaButton
   icon="https://cdn.simpleicons.org/safari/ffb547"
@@ -114,6 +113,7 @@
   ]}
 />
 ```
+
 ```aura width=140 height=44 link="https://github.com/AbhijithGanesh" inline align=center
 <SocialMediaButton
   icon="https://cdn.simpleicons.org/github/ffffff"
@@ -126,6 +126,7 @@
   iconSize="18"
 />
 ```
+
 ```aura width=180 height=44 link="https://www.credly.com/badges/1eb04f2a-d051-4db8-b3ab-f0df8c08de6d/linked_in_profile" inline align=center
 <SocialMediaButton
   icon="https://cdn.simpleicons.org/kubernetes/ffb547"
@@ -142,6 +143,8 @@
   ]}
 />
 ```
+
+</div>
 
 ```aura width=1200 height=760
 <div style={{
@@ -165,7 +168,7 @@
     <div style={{ display: 'flex', flexDirection: 'column', width: 280, paddingRight: 32, borderRight: '1px solid #222' }}>
       <div style={{ display: 'flex', fontSize: 12, letterSpacing: 4, color: '#666', textTransform: 'uppercase' }}>§ 01</div>
       <div style={{ display: 'flex', fontSize: 36, fontWeight: 900, marginTop: 12, lineHeight: 1, letterSpacing: -1 }}>About</div>
-      <div style={{ display: 'flex', fontSize: 36, fontWeight: 200, fontStyle: 'italic', color: '#ffb547', lineHeight: 1, letterSpacing: -1 }}>the engineer.</div>
+      <div style={{ display: 'flex', fontSize: 36, fontWeight: 200, fontStyle: 'italic', color: '#ffb547', lineHeight: 1, letterSpacing: -1 }}>me.</div>
       <div style={{ display: 'flex', marginTop: 24, width: 60, height: 2, background: '#ffb547' }} />
     </div>
     <div style={{ display: 'flex', flexDirection: 'column', flex: 1, paddingLeft: 40, justifyContent: 'center' }}>
@@ -188,8 +191,9 @@
   <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-end' }}>
     <div style={{ display: 'flex', flexDirection: 'column' }}>
       <div style={{ display: 'flex', fontSize: 12, letterSpacing: 4, color: '#666', textTransform: 'uppercase' }}>§ 02 · IN PROGRESS</div>
-      <div style={{ display: 'flex', fontSize: 56, fontWeight: 900, lineHeight: 1, marginTop: 8, letterSpacing: -2 }}>
-        Currently{' '}<span style={{ color: '#ffb547', fontStyle: 'italic', fontWeight: 200 }}> shipping</span>
+      <div style={{ display: 'flex', flexDirection: 'column', marginTop: 8 }}>
+        <div style={{ display: 'flex', fontSize: 56, fontWeight: 900, lineHeight: 1, letterSpacing: -2 }}>Currently</div>
+        <div style={{ display: 'flex', fontSize: 56, fontWeight: 200, fontStyle: 'italic', color: '#ffb547', lineHeight: 1, letterSpacing: -2, marginTop: 4 }}>shipping</div>
       </div>
     </div>
     <div style={{ display: 'flex', fontSize: 14, color: '#ffb547', letterSpacing: 3, textTransform: 'uppercase', alignItems: 'center', gap: 8 }}>
@@ -228,8 +232,9 @@
   <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-end', borderBottom: '2px solid #0a0a0a', paddingBottom: 18 }}>
     <div style={{ display: 'flex', flexDirection: 'column' }}>
       <div style={{ display: 'flex', fontSize: 12, letterSpacing: 4, color: '#888', textTransform: 'uppercase' }}>§ 03 · SERVICES</div>
-      <div style={{ display: 'flex', fontSize: 64, fontWeight: 900, lineHeight: 1, marginTop: 8, letterSpacing: -3 }}>
-        What I do for{' '}<span style={{ fontStyle: 'italic', fontWeight: 200, color: '#b45309' }}> your business.</span>
+      <div style={{ display: 'flex', flexDirection: 'column', marginTop: 8 }}>
+        <div style={{ display: 'flex', fontSize: 64, fontWeight: 900, lineHeight: 1, letterSpacing: -3 }}>What I do for</div>
+        <div style={{ display: 'flex', fontSize: 64, fontWeight: 200, fontStyle: 'italic', color: '#b45309', lineHeight: 1, letterSpacing: -3, marginTop: 6 }}>your business.</div>
       </div>
     </div>
     <div style={{ display: 'flex', fontSize: 12, letterSpacing: 3, color: '#888' }}>SIX DISCIPLINES →</div>
@@ -237,7 +242,7 @@
 
   <div style={{ display: 'flex', marginTop: 28, flexWrap: 'wrap' }}>
     {[
-      { n: '01', t: 'Idea — Production', d: 'Whiteboard to deployed system. End-to-end ownership.' },
+      { n: '01', t: 'Idea to Production', d: 'Whiteboard to deployed system. End-to-end ownership.' },
       { n: '02', t: 'Cut Cloud Bills', d: 'Consolidate workloads, right-size compute, lease idle capacity.' },
       { n: '03', t: 'Ship Faster', d: 'Modernise CI/CD pipelines. Unblock developer velocity.' },
       { n: '04', t: 'AI That Works', d: 'RAG, agents, ML — grounded in your domain, not hype.' },
@@ -316,15 +321,6 @@
 </div>
 ```
 
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbhijithGanesh&theme=github_dark" width="80%" alt="profile summary"/>
-</p>
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbhijithGanesh&theme=github_dark" height="200" alt="top languages by repo"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbhijithGanesh&theme=github_dark" height="200" alt="top languages by commit"/>
-</p>
-
 ```aura width=1200 height=240 link="mailto:work@abhijithganesh.com"
 <div style={{
   width: '100%', height: '100%', display: 'flex',
@@ -364,3 +360,12 @@
   </div>
 </div>
 ```
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbhijithGanesh&theme=github_dark" width="80%" alt="profile summary"/>
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbhijithGanesh&theme=github_dark" height="200" alt="top languages by repo"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbhijithGanesh&theme=github_dark" height="200" alt="top languages by commit"/>
+</p>
