@@ -5,7 +5,7 @@
 <div style="background:#0a0a0a;padding:18px 0 6px 0;">
 
 <p align="center">
-<a href="mailto:work@abhijithganesh.com"><img src="./.github/assets/readme-aura-component-1-43b0df2f.svg" width="220" height="44" /></a><a href="https://abhijithganesh.com"><img src="./.github/assets/readme-aura-component-2-38e68ff0.svg" width="170" height="44" /></a><a href="https://github.com/AbhijithGanesh"><img src="./.github/assets/readme-aura-component-3-9922726c.svg" width="140" height="44" /></a><a href="https://www.credly.com/badges/1eb04f2a-d051-4db8-b3ab-f0df8c08de6d/linked_in_profile"><img src="./.github/assets/readme-aura-component-4-89bcfaba.svg" width="180" height="44" /></a>
+<a href="mailto:work@abhijithganesh.com"><img src="./.github/assets/readme-aura-component-1-94829ad1.svg" width="220" height="44" /></a><a href="https://abhijithganesh.com"><img src="./.github/assets/readme-aura-component-2-1e84329a.svg" width="170" height="44" /></a><a href="https://github.com/AbhijithGanesh"><img src="./.github/assets/readme-aura-component-3-b78e361f.svg" width="140" height="44" /></a><a href="https://www.credly.com/badges/1eb04f2a-d051-4db8-b3ab-f0df8c08de6d/linked_in_profile"><img src="./.github/assets/readme-aura-component-4-b7fa7e20.svg" width="180" height="44" /></a>
 </p>
 
 </div>
